@@ -4,7 +4,7 @@ Este projeto consiste em um **Dashboard Comercial interativo** desenvolvido no *
 
 
 
-![Dashboard Comercial em Power BI](./Graf.png)
+![Dashboard Comercial em Power BI](./Captura de tela 2025-06-24 202456.png)
 
 ---
 
